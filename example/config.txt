@@ -1,0 +1,2 @@
+Prefix plugins/CSVAverage/example
+Plugin CSVAverage inputfile input.csv outputfile averaged.csv
